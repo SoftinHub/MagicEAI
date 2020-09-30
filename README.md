@@ -1,7 +1,9 @@
 # MagicEAI
 Connecteur DMP Compatible (EAI)
 
-Ce repository présente une version démo de notre connecteur DMP MagicEAI.DLL (utilisable uniquement en environnement de test).
+Pour plus d'information sur le Dossier Médical Partagé (DMP), vous pouvez consulter le site https://www.dmp.fr/.
+
+Ce site s'adresse aux éditeurs de logiciels médicaux qui veulent interfacer leur produit avec le DMP; il présente une version démo de notre connecteur DMP MagicEAI.DLL (utilisable uniquement en environnement de test).
 
 Des exemples C et Delphi sont proposés.
 
