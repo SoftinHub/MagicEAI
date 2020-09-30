@@ -1,0 +1,4 @@
+LIBRARY MagicEAI.dll
+
+EXPORTS
+GetInterface

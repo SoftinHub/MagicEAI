@@ -1,0 +1,3 @@
+Démonstration Delphi de l'usage de MagicEAI.dll
+
+NB: MagicEAI est développé sous Delphi
